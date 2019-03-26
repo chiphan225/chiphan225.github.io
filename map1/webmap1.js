@@ -14,3 +14,12 @@ let patrickftaylorhall = L.polygon([
 
 pft.bindPopup('this is pft')
 patrickftaylorhall.bindPopup('patrick taylor hall')
+
+var latlngs = [
+    [30.51, -91.68],
+    [30.77, -91.43],
+    [30.04, -90.2]
+];
+var polyline = L.polyline(latlngs, {color: 'red'}).addTo(map1);
+// zoom the map to the polyline
+map.fitBounds(polyline.getBounds());
