@@ -12,5 +12,5 @@ let patrickftaylorhall = L.polygon([
   [51.51, -0.047]
 ]).addTo(map1);
 
-pft.bindPopup('A polygon')
-patrickftaylorhall.bindPopup('A marker')
+pft.bindPopup('this is pft')
+patrickftaylorhall.bindPopup('patrick taylor hall')
