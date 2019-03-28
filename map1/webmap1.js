@@ -22,4 +22,4 @@ var latlngs = [
 ];
 var polyline = L.polyline(latlngs, {color: 'red'}).addTo(map1);
 // zoom the map to the polyline
-map.fitBounds(polyline.getBounds());
+map1.fitBounds(polyline.getBounds());
