@@ -1,4 +1,4 @@
-let map2 = L.map('map2').setView([30.4077116,-91.1818346], 4)
+let map3 = L.map('map3').setView([30.4077116,-91.1818346], 4)
 L.tileLayer('https://cartodb-basemaps-{s}.global.ssl.fastly.net/dark_nolabels/{z}/{x}/{y}.png').addTo(map2)
 var OpenTopoMap = L.tileLayer('https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png', {
 	maxZoom: 17,
@@ -26,7 +26,7 @@ let stateStyle = function (feature) {
     fillOpacity: 0.2
   }
 }
-   let stateGeojsonOptions = { 
+   let stateGeojsonOptions = {
  style: stateStyle,
  onEachFeature: onEachFeature
    }
