@@ -11,11 +11,7 @@ jQuery.getJSON(stateDemographicsUrl, function (data) {
 let stateStyle = { color: 'green' }
 let stateGeojsonOptions = { style: stateStyle }
 L.geoJSON(data, stateGeojsonOptions).addTo(stateMap)
-let stateStyle = {
-  color: 'green',
-  weight: 1,
-  fillOpacity: 0.2
-}
+
 let stateStyle = function (feature) {
   let age = feature.properties.MED_AGE // get the current state's Median Age attribute
   let stateColor = 'olive' // let the initial color be a darker green
