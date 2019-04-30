@@ -9,7 +9,7 @@ let futbol = {
     },
     "properties": {
       "Class": "Majors",
-      "Conference": "Eastern Conference",
+      "League": "Eastern Conference",
       "Team": "Atlanta United",
       "Stadium": "Mercedes-Benz Stadium",
       "Lat": "33.7554527",
@@ -23,7 +23,7 @@ let futbol = {
     },
     "properties": {
       "Class": "Majors",
-      "Conference": "Eastern Conference",
+      "League": "Eastern Conference",
       "Team": "Chicago Fire",
       "Stadium": "SeatGeek Stadium",
       "Lat": "41.764798",
@@ -33,295 +33,309 @@ let futbol = {
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-76.621914, 39.283487]
+      "coordinates": [-84.5184217, 39.1312231]
     },
     "properties": {
       "Class": "Majors",
-      "League": "Eastern Conferencet",
-      "Team": "Baltimore Orioles",
-      "Stadium": "Oriole Park at Camden Yards",
-      "Lat": "39.283487",
-      "Long": "-76.621914"
+      "League": "Eastern Conference",
+      "Team": "FC Cincinnati",
+      "Stadium": "Nippert Stadium",
+      "Lat": "39.1312231",
+      "Long": "-84.5184217"
     }
   }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-71.097757, 42.346202]
+      "coordinates": [-82.9933509, 40.0095329]
     },
     "properties": {
       "Class": "Majors",
       "League": "Eastern Conference",
-      "Team": "Boston Red Sox",
-      "Stadium": "Fenway Park",
-      "Lat": "42.346202",
-      "Long": "-71.097757"
+      "Team": "Columbus Crew SC",
+      "Stadium": "Mapfre Stadium",
+      "Lat": "40.0095329",
+      "Long": "-82.9933509"
     }
   }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-87.65581, 41.947904]
+      "coordinates": [-77.0151054, 38.8689556]
     },
     "properties": {
       "Class": "Majors",
       "League": "Eastern Conference",
-      "Team": "Chicago Cubs",
-      "Ballpark": "Wrigley Field",
-      "Lat": "41.947904",
-      "Long": "-87.65581"
+      "Team": "D.C. United",
+      "Stadium": "Audi Field",
+      "Lat": "38.8689556",
+      "Long": "-77.0151054"
     }
   }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-87.634206, 41.830189]
+      "coordinates": [-73.5552211, 45.5622984]
     },
     "properties": {
       "Class": "Majors",
       "League": "Eastern Conference",
-      "Team": "Chicago White Sox",
-      "Ballpark": "Guaranteed Rate Field",
-      "Lat": "41.830189",
-      "Long": "-87.634206"
+      "Team": "Montreal Impact",
+      "Stadium": "Saputo Stadium",
+      "Lat": "45.5622984",
+      "Long": "-73.5552211"
     }
   }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-84.509007, 39.096549]
+      "coordinates": [-84.509007, 42.0909498]
     },
     "properties": {
       "Class": "Majors",
       "League": "Eastern Conference",
-      "Team": "Cincinnati Reds",
-      "Ballpark": "Great American Ball Park",
-      "Lat": "39.096549",
+      "Team": "New England Revolution",
+      "Stadium": "Gillete Stadium",
+      "Lat": "42.0909498",
       "Long": "-84.509007"
     }
   }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-81.685286, 41.495506]
+      "coordinates": [-73.9283632, 40.8296466]
     },
     "properties": {
       "Class": "Majors",
       "League": "Eastern Conference",
-      "Team": "Cleveland Indians",
-      "Ballpark": "Progressive Field",
-      "Lat": "41.495506",
-      "Long": "-81.685286"
+      "Team": "New York City FC",
+      "Stadium": "Yankee Stadium",
+      "Lat": "40.8296466",
+      "Long": "-73.9283632"
     }
   }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-104.99414, 39.755683]
+      "coordinates": [-74.1524242, 40.7368476]
     },
     "properties": {
       "Class": "Majors",
       "League": "Eastern Conference",
-      "Team": "Colorado Rockies",
-      "Ballpark": "Coors Field",
-      "Lat": "39.755683",
-      "Long": "-104.99414"
+      "Team": "New York Red Bulls",
+      "Stadium": "Red Bull Arena",
+      "Lat": "40.7368476",
+      "Long": "-74.1524242"
     }
   }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-83.04903, 42.339474]
+      "coordinates": [-81.3914669, 28.5411153]
     },
     "properties": {
       "Class": "Majors",
       "League": "Eastern Conference",
-      "Team": "Detroit Tigers",
-      "Ballpark": "Comerica Park",
-      "Lat": "42.339474",
-      "Long": "-83.049027"
+      "Team": "Orlando City SC",
+      "Stadium": "Orlando City Stadium",
+      "Lat": "28.5411153",
+      "Long": "-81.3914669"
     }
   }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-80.219614, 25.778058]
+      "coordinates": [-75.3806454, 39.8327971]
     },
     "properties": {
       "Class": "Majors",
       "League": "Eastern Conference",
-      "Team": "Miami Marlins",
-      "Ballpark": "Marlins Park",
-      "Lat": "25.778058",
-      "Long": "-80.219614"
+      "Team": "Philadelphia Union",
+      "Stadium": "Talen Energy Stadium",
+      "Lat": "39.8327971",
+      "Long": "-75.3806454"
     }
   }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-95.35632, 29.756778]
+      "coordinates": [-79.4207541, 43.6332286]
     },
     "properties": {
       "Class": "Majors",
       "League": "Eastern Conference",
-      "Team": "Houston Astros",
-      "Ballpark": "Minute Maid Park",
-      "Lat": "29.756778",
-      "Long": "-95.356324"
+      "Team": "Toronto FC",
+      "Stadium": "BMO Field",
+      "Lat": "43.6332286",
+      "Long": "-79.4207541"
     }
   }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-94.480817, 39.051221]
+      "coordinates": [-104.8940055, 39.8056243]
     },
     "properties": {
       "Class": "Majors",
       "League": "Western Conference",
-      "Team": "Kansas City Royals",
-      "Ballpark": "Kauffman Stadium",
-      "Lat": "39.051221",
-      "Long": "-94.480817"
+      "Team": "Colorado Rapids",
+      "Stadium": "Dick's Sporting Good Park",
+      "Lat": "39.8056243",
+      "Long": "-104.8940055"
     }
   }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-117.883194, 33.799925]
+      "coordinates": [-96.8373606, 33.1543384]
     },
     "properties": {
       "Class": "Majors",
       "League": "Western Conference",
-      "Team": "Los Angeles Angels of Anaheim",
-      "Ballpark": "Angels Stadium",
-      "Lat": "33.799925",
-      "Long": "-117.883194"
+      "Team": "FC Dallas",
+      "Ballpark": "Toyota Stadium",
+      "Lat": "33.1543384",
+      "Long": "-96.8373606"
     }
   }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-118.24026, 34.073432]
+      "coordinates": [-95.3544063, 29.7522063]
     },
     "properties": {
       "Class": "Majors",
       "League": "Western Conference",
-      "Team": "Los Angeles Dodgers",
-      "Ballpark": "Dodger Stadium",
-      "Lat": "34.073432",
-      "Long": "-118.24026"
+      "Team": "Houston Dynamo",
+      "Stadium": "BBVA Compass Stadium",
+      "Lat": "29.7522063",
+      "Long": "-95.3544063"
     }
   }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-87.971303, 43.028478]
+      "coordinates": [-118.2633313, 33.8643821]
     },
     "properties": {
       "Class": "Majors",
       "League": "Western Conference",
-      "Team": "Milwaukee Brewers",
-      "Ballpark": "Miller Park",
-      "Lat": "43.028478",
-      "Long": "-87.971303"
+      "Team": "LA Galaxy",
+      "Stadium": "Dignity Health Sports Park",
+      "Lat": "33.8643821",
+      "Long": "-118.2633313"
     }
   }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-93.278333, 44.981667]
+      "coordinates": [-118.2862732, 34.0127752]
     },
     "properties": {
       "Class": "Majors",
       "League": "Western Conference",
-      "Team": "Minnesota Twins",
-      "Ballpark": "Target Field",
-      "Lat": "44.981667",
-      "Long": "-93.278333"
+      "Team": "Los Angeles FC",
+      "Stadium": "Banc of California Stadium",
+      "Lat": "34.0127752",
+      "Long": "-118.2862732"
     }
   }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-73.845833, 40.756944]
+      "coordinates": [-93.1672852, 44.9529264]
     },
     "properties": {
       "Class": "Majors",
       "League": "Western Conference",
-      "Team": "New York Mets",
-      "Ballpark": "Citi Field",
-      "Lat": "40.756944",
-      "Long": "-73.845833"
+      "Team": "Minnesota United FC",
+      "Stadium": "Allianz Field",
+      "Lat": "44.9529264",
+      "Long": "-93.1672852"
     }
   }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-73.928428, 40.826918]
+      "coordinates": [-122.6940331, 45.5215426]
     },
     "properties": {
       "Class": "Majors",
       "League": "Western Conference",
-      "Team": "New York Yankees",
-      "Ballpark": "Yankee Stadium",
-      "Lat": "40.826918",
-      "Long": "-73.928428"
+      "Team": "Portland Timbers",
+      "Stadium": "Providence Park",
+      "Lat": "45.5215426",
+      "Long": "-122.6940331"
     }
   }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-122.201158, 37.751262]
+      "coordinates": [-111.8955498, 40.5829342]
     },
     "properties": {
       "Class": "Majors",
       "League": "Western Conference",
-      "Team": "Oakland Athletics",
-      "Ballpark": "Network Associates Coliseum",
-      "Lat": "37.751262",
-      "Long": "-122.201158"
+      "Team": "Real Salt Lake",
+      "Stadium": "Rio Tinto Stadium",
+      "Lat": "40.5829342",
+      "Long": "-111.8955498"
     }
   }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-75.16653, 39.905437]
+      "coordinates": [-121.9268511, 37.3511691]
     },
     "properties": {
       "Class": "Majors",
       "League": "Western Conference",
-      "Team": "Philadelphia Phillies",
-      "Ballpark": "Citizens Bank Park",
-      "Lat": "39.905437",
-      "Long": "-75.166535"
+      "Team": "San Jose Earthquakes",
+      "Stadium": "Avaya Stadium",
+      "Lat": "37.3511691",
+      "Long": "-121.9268511"
     }
   }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-80.006626, 40.447265]
+      "coordinates": [-122.3338281, 47.5951554]
     },
     "properties": {
       "Class": "Majors",
       "League": "Western Conference",
-      "Team": "Pittsburgh Pirates",
-      "Ballpark": "PNC Park",
-      "Lat": "40.447265",
-      "Long": "-80.006626"
+      "Team": "Seattle Sounders FC",
+      "Stadium": "Century Link Field",
+      "Lat": "47.5951554",
+      "Long": "-122.3338281"
     }
   }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-117.15732, 32.706922]
+      "coordinates": [-94.8253654, 39.121597]
     },
     "properties": {
       "Class": "Majors",
       "League": "Western Conference",
-      "Team": "San Diego Padres",
-      "Ballpark": "PETCO Park",
-      "Lat": "32.706922",
-      "Long": "-117.157324"
+      "Team": "Sporting Kansas City",
+      "Stadium": "Children's Mercy Park",
+      "Lat": "39.121597",
+      "Long": "-94.8253654"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-123.1141877, 49.2767535]
+    },
+    "properties": {
+      "Class": "Majors",
+      "League": "Western Conference",
+      "Team": "Vancouver Whitecaps FC",
+      "Stadium": "BC Place",
+      "Lat": "49.2767535",
+      "Long": "-123.1141877"
     }
       ]
 }
