@@ -336,6 +336,7 @@ let futbol = {
       "Stadium": "BC Place",
       "Lat": "49.2767535",
       "Long": "-123.1141877"
-    }
+   }
+  }
       ]
 }
