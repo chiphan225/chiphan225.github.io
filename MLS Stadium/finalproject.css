@@ -1,0 +1,9 @@
+#mlbmap {
+  height: 500px;
+  width: 75%;
+}
+body {
+  background-color: grey;
+}
+.ecs {color: red}
+.wcs {color: blue}
