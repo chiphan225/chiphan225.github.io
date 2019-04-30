@@ -19,15 +19,15 @@ let futbol = {
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-84.468, 33.89]
+      "coordinates": [-87.8083637, 41.764798]
     },
     "properties": {
       "Class": "Majors",
       "League": "Eastern Conferencet",
       "Team": "Chicago Fire",
-      "Stadium": "SunTrust Park",
-      "Lat": "33.89",
-      "Long": "-84.468"
+      "Stadium": "SeatGeek Stadium",
+      "Lat": "41.764798",
+      "Long": "-87.8083637"
     }
   }, {
     "type": "Feature",
@@ -39,7 +39,7 @@ let futbol = {
       "Class": "Majors",
       "League": "American League East",
       "Team": "Baltimore Orioles",
-      "Ballpark": "Oriole Park at Camden Yards",
+      "Stadium": "Oriole Park at Camden Yards",
       "Lat": "39.283487",
       "Long": "-76.621914"
     }
@@ -53,7 +53,7 @@ let futbol = {
       "Class": "Majors",
       "League": "American League East",
       "Team": "Boston Red Sox",
-      "Ballpark": "Fenway Park",
+      "Stadium": "Fenway Park",
       "Lat": "42.346202",
       "Long": "-71.097757"
     }
