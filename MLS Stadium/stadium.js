@@ -5,15 +5,15 @@ let futbol = {
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-112.066564, 33.445081]
+      "coordinates": [-84.4030437, 33.7554527]
     },
     "properties": {
       "Class": "Majors",
-      "League": "National League West",
-      "Team": "Arizona Diamondbacks",
-      "Ballpark": "Chase Field",
-      "Lat": "33.445081",
-      "Long": "-112.066564"
+      "League": "Eastern Conference",
+      "Team": "Atlanta United",
+      "Stadium": "Mercedes-Benz Stadium",
+      "Lat": "33.7554527",
+      "Long": "-84.4030437"
     }
   }, {
     "type": "Feature",
@@ -23,9 +23,9 @@ let futbol = {
     },
     "properties": {
       "Class": "Majors",
-      "League": "National League East",
-      "Team": "Atlanta Braves",
-      "Ballpark": "SunTrust Park",
+      "League": "Eastern Conferencet",
+      "Team": "Chicago Fire",
+      "Stadium": "SunTrust Park",
       "Lat": "33.89",
       "Long": "-84.468"
     }
