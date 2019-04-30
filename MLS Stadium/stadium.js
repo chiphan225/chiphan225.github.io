@@ -9,7 +9,7 @@ let futbol = {
     },
     "properties": {
       "Class": "Majors",
-      "League": "Eastern Conference",
+      "Conference": "Eastern Conference",
       "Team": "Atlanta United",
       "Stadium": "Mercedes-Benz Stadium",
       "Lat": "33.7554527",
@@ -23,7 +23,7 @@ let futbol = {
     },
     "properties": {
       "Class": "Majors",
-      "League": "Eastern Conferencet",
+      "Conference": "Eastern Conference",
       "Team": "Chicago Fire",
       "Stadium": "SeatGeek Stadium",
       "Lat": "41.764798",
@@ -37,7 +37,7 @@ let futbol = {
     },
     "properties": {
       "Class": "Majors",
-      "League": "American League East",
+      "League": "Eastern Conferencet",
       "Team": "Baltimore Orioles",
       "Stadium": "Oriole Park at Camden Yards",
       "Lat": "39.283487",
@@ -51,7 +51,7 @@ let futbol = {
     },
     "properties": {
       "Class": "Majors",
-      "League": "American League East",
+      "League": "Eastern Conference",
       "Team": "Boston Red Sox",
       "Stadium": "Fenway Park",
       "Lat": "42.346202",
@@ -65,7 +65,7 @@ let futbol = {
     },
     "properties": {
       "Class": "Majors",
-      "League": "National League Central",
+      "League": "Eastern Conference",
       "Team": "Chicago Cubs",
       "Ballpark": "Wrigley Field",
       "Lat": "41.947904",
@@ -79,7 +79,7 @@ let futbol = {
     },
     "properties": {
       "Class": "Majors",
-      "League": "American League Central",
+      "League": "Eastern Conference",
       "Team": "Chicago White Sox",
       "Ballpark": "Guaranteed Rate Field",
       "Lat": "41.830189",
@@ -93,7 +93,7 @@ let futbol = {
     },
     "properties": {
       "Class": "Majors",
-      "League": "National League Central",
+      "League": "Eastern Conference",
       "Team": "Cincinnati Reds",
       "Ballpark": "Great American Ball Park",
       "Lat": "39.096549",
@@ -107,7 +107,7 @@ let futbol = {
     },
     "properties": {
       "Class": "Majors",
-      "League": "American League Central",
+      "League": "Eastern Conference",
       "Team": "Cleveland Indians",
       "Ballpark": "Progressive Field",
       "Lat": "41.495506",
@@ -121,7 +121,7 @@ let futbol = {
     },
     "properties": {
       "Class": "Majors",
-      "League": "National League West",
+      "League": "Eastern Conference",
       "Team": "Colorado Rockies",
       "Ballpark": "Coors Field",
       "Lat": "39.755683",
@@ -135,7 +135,7 @@ let futbol = {
     },
     "properties": {
       "Class": "Majors",
-      "League": "American League Central",
+      "League": "Eastern Conference",
       "Team": "Detroit Tigers",
       "Ballpark": "Comerica Park",
       "Lat": "42.339474",
@@ -149,7 +149,7 @@ let futbol = {
     },
     "properties": {
       "Class": "Majors",
-      "League": "National League East",
+      "League": "Eastern Conference",
       "Team": "Miami Marlins",
       "Ballpark": "Marlins Park",
       "Lat": "25.778058",
@@ -163,7 +163,7 @@ let futbol = {
     },
     "properties": {
       "Class": "Majors",
-      "League": "American League West",
+      "League": "Eastern Conference",
       "Team": "Houston Astros",
       "Ballpark": "Minute Maid Park",
       "Lat": "29.756778",
@@ -177,7 +177,7 @@ let futbol = {
     },
     "properties": {
       "Class": "Majors",
-      "League": "American League Central",
+      "League": "Western Conference",
       "Team": "Kansas City Royals",
       "Ballpark": "Kauffman Stadium",
       "Lat": "39.051221",
@@ -191,7 +191,7 @@ let futbol = {
     },
     "properties": {
       "Class": "Majors",
-      "League": "American League West",
+      "League": "Western Conference",
       "Team": "Los Angeles Angels of Anaheim",
       "Ballpark": "Angels Stadium",
       "Lat": "33.799925",
@@ -205,7 +205,7 @@ let futbol = {
     },
     "properties": {
       "Class": "Majors",
-      "League": "National League West",
+      "League": "Western Conference",
       "Team": "Los Angeles Dodgers",
       "Ballpark": "Dodger Stadium",
       "Lat": "34.073432",
@@ -219,7 +219,7 @@ let futbol = {
     },
     "properties": {
       "Class": "Majors",
-      "League": "National League Central",
+      "League": "Western Conference",
       "Team": "Milwaukee Brewers",
       "Ballpark": "Miller Park",
       "Lat": "43.028478",
@@ -233,7 +233,7 @@ let futbol = {
     },
     "properties": {
       "Class": "Majors",
-      "League": "American League Central",
+      "League": "Western Conference",
       "Team": "Minnesota Twins",
       "Ballpark": "Target Field",
       "Lat": "44.981667",
@@ -247,7 +247,7 @@ let futbol = {
     },
     "properties": {
       "Class": "Majors",
-      "League": "National League East",
+      "League": "Western Conference",
       "Team": "New York Mets",
       "Ballpark": "Citi Field",
       "Lat": "40.756944",
@@ -261,7 +261,7 @@ let futbol = {
     },
     "properties": {
       "Class": "Majors",
-      "League": "American League East",
+      "League": "Western Conference",
       "Team": "New York Yankees",
       "Ballpark": "Yankee Stadium",
       "Lat": "40.826918",
@@ -275,7 +275,7 @@ let futbol = {
     },
     "properties": {
       "Class": "Majors",
-      "League": "American League West",
+      "League": "Western Conference",
       "Team": "Oakland Athletics",
       "Ballpark": "Network Associates Coliseum",
       "Lat": "37.751262",
@@ -289,7 +289,7 @@ let futbol = {
     },
     "properties": {
       "Class": "Majors",
-      "League": "National League East",
+      "League": "Western Conference",
       "Team": "Philadelphia Phillies",
       "Ballpark": "Citizens Bank Park",
       "Lat": "39.905437",
@@ -303,7 +303,7 @@ let futbol = {
     },
     "properties": {
       "Class": "Majors",
-      "League": "National League Central",
+      "League": "Western Conference",
       "Team": "Pittsburgh Pirates",
       "Ballpark": "PNC Park",
       "Lat": "40.447265",
@@ -317,110 +317,11 @@ let futbol = {
     },
     "properties": {
       "Class": "Majors",
-      "League": "National League West",
+      "League": "Western Conference",
       "Team": "San Diego Padres",
       "Ballpark": "PETCO Park",
       "Lat": "32.706922",
       "Long": "-117.157324"
     }
-  }, {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-122.38959, 37.778473]
-    },
-    "properties": {
-      "Class": "Majors",
-      "League": "National League West",
-      "Team": "San Francisco Giants",
-      "Ballpark": "AT&T Park",
-      "Lat": "37.778473",
-      "Long": "-122.389595"
-    }
-  }, {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-122.33288, 47.59111]
-    },
-    "properties": {
-      "Class": "Majors",
-      "League": "American League West",
-      "Team": "Seattle Mariners",
-      "Ballpark": "Safeco Field",
-      "Lat": "47.59111",
-      "Long": "-122.33288"
-    }
-  }, {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-90.192793, 38.624005]
-    },
-    "properties": {
-      "Class": "Majors",
-      "League": "National League Central",
-      "Team": "St. Louis Cardinals",
-      "Ballpark": "Busch Stadium",
-      "Lat": "38.624005",
-      "Long": "-90.192793"
-    }
-  }, {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-82.653246, 27.768016]
-    },
-    "properties": {
-      "Class": "Majors",
-      "League": "American League East",
-      "Team": "Tampa Bay Devil Rays",
-      "Ballpark": "Tropicana Field",
-      "Lat": "27.768016",
-      "Long": "-82.653246"
-    }
-  }, {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-97.083047, 32.75155]
-    },
-    "properties": {
-      "Class": "Majors",
-      "League": "American League West",
-      "Team": "Texas Rangers",
-      "Ballpark": "Globe Life Park in Arlington",
-      "Lat": "32.75155",
-      "Long": "-97.083047"
-    }
-  }, {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-79.38921, 43.641305]
-    },
-    "properties": {
-      "Class": "Majors",
-      "League": "American League East",
-      "Team": "Toronto Blue Jays",
-      "Ballpark": "Rogers Centre",
-      "Lat": "43.641305",
-      "Long": "-79.389214"
-    }
-  }, {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-77.00762, 38.8727]
-    },
-    "properties": {
-      "Class": "Majors",
-      "League": "National League East",
-      "Team": "Washington Nationals",
-      "Ballpark": "Nationals Park",
-      "Lat": "38.8727",
-      "Long": "-77.00762"
-    }
-  }
       ]
 }
