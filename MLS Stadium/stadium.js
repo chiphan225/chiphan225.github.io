@@ -13,7 +13,9 @@ let futbol = {
       "Team": "Atlanta United",
       "Stadium": "Mercedes-Benz Stadium",
       "Lat": "33.7554527",
-      "Long": "-84.4030437"
+      "Long": "-84.4030437", 
+      "logo": "atlanta.png"
+      
     }
   }, {
     "type": "Feature",
