@@ -9,8 +9,7 @@ let lays = {
 }
 L.control.layers(lays).addTo(map)
 function getColor(d) {
-  return d === "Eastern Conference" ? 'Red' :
-         d === "Western Conference" ? 'Blue':
+  return d === "Eastern Conference" ? 'Red' : 'Blue'
         
 }
 function style (feature) {
