@@ -35,5 +35,6 @@ L.geoJSON(futbol, mapoptions).addTo(map)
 function geopopup (feature, layer) {
  let id = feature.properties.Team
  let name = feature.properties.Stadium
+ let img = feature.properties.logo
  layer.bindPopup(id + "<br>" + name)
 }
