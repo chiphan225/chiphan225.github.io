@@ -195,7 +195,7 @@ let futbol = {
       "Class": "Majors",
       "League": "Western Conference",
       "Team": "FC Dallas",
-      "Ballpark": "Toyota Stadium",
+      "Stadium": "Toyota Stadium",
       "Lat": "33.1543384",
       "Long": "-96.8373606"
     }
