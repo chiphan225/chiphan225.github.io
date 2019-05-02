@@ -14,8 +14,7 @@ let futbol = {
       "Stadium": "Mercedes-Benz Stadium",
       "Lat": "33.7554527",
       "Long": "-84.4030437", 
-      "logo": "atlanta.png"
-      
+      "logo": "ATL_Logo_PRI_FC_RGB_2160x2160.png"
     }
   }, {
     "type": "Feature",
@@ -30,6 +29,7 @@ let futbol = {
       "Stadium": "SeatGeek Stadium",
       "Lat": "41.764798",
       "Long": "-87.8083637"
+      "logo": ""
     }
   }, {
     "type": "Feature",
@@ -44,6 +44,7 @@ let futbol = {
       "Stadium": "Nippert Stadium",
       "Lat": "39.1312231",
       "Long": "-84.5184217"
+      "logo": ""
     }
   }, {
     "type": "Feature",
@@ -58,6 +59,7 @@ let futbol = {
       "Stadium": "Mapfre Stadium",
       "Lat": "40.0095329",
       "Long": "-82.9933509"
+      "logo": ""
     }
   }, {
     "type": "Feature",
@@ -72,6 +74,7 @@ let futbol = {
       "Stadium": "Audi Field",
       "Lat": "38.8689556",
       "Long": "-77.0151054"
+      "logo": ""
     }
   }, {
     "type": "Feature",
@@ -86,6 +89,7 @@ let futbol = {
       "Stadium": "Saputo Stadium",
       "Lat": "45.5622984",
       "Long": "-73.5552211"
+      "logo": ""
     }
   }, {
     "type": "Feature",
@@ -100,6 +104,7 @@ let futbol = {
       "Stadium": "Gillete Stadium",
       "Lat": "42.0909498",
       "Long": "-84.509007"
+      "logo": ""
     }
   }, {
     "type": "Feature",
@@ -114,6 +119,7 @@ let futbol = {
       "Stadium": "Yankee Stadium",
       "Lat": "40.8296466",
       "Long": "-73.9283632"
+      "logo": ""
     }
   }, {
     "type": "Feature",
@@ -128,6 +134,7 @@ let futbol = {
       "Stadium": "Red Bull Arena",
       "Lat": "40.7368476",
       "Long": "-74.1524242"
+      "logo": ""
     }
   }, {
     "type": "Feature",
@@ -142,6 +149,7 @@ let futbol = {
       "Stadium": "Orlando City Stadium",
       "Lat": "28.5411153",
       "Long": "-81.3914669"
+      "logo": ""
     }
   }, {
     "type": "Feature",
@@ -156,6 +164,7 @@ let futbol = {
       "Stadium": "Talen Energy Stadium",
       "Lat": "39.8327971",
       "Long": "-75.3806454"
+      "logo": ""
     }
   }, {
     "type": "Feature",
@@ -170,6 +179,7 @@ let futbol = {
       "Stadium": "BMO Field",
       "Lat": "43.6332286",
       "Long": "-79.4207541"
+      "logo": ""
     }
   }, {
     "type": "Feature",
@@ -184,6 +194,7 @@ let futbol = {
       "Stadium": "Dick's Sporting Good Park",
       "Lat": "39.8056243",
       "Long": "-104.8940055"
+      "logo": ""
     }
   }, {
     "type": "Feature",
@@ -198,6 +209,7 @@ let futbol = {
       "Stadium": "Toyota Stadium",
       "Lat": "33.1543384",
       "Long": "-96.8373606"
+      "logo": ""
     }
   }, {
     "type": "Feature",
@@ -212,6 +224,7 @@ let futbol = {
       "Stadium": "BBVA Compass Stadium",
       "Lat": "29.7522063",
       "Long": "-95.3544063"
+      "logo": ""
     }
   }, {
     "type": "Feature",
@@ -226,6 +239,7 @@ let futbol = {
       "Stadium": "Dignity Health Sports Park",
       "Lat": "33.8643821",
       "Long": "-118.2633313"
+      "logo": ""
     }
   }, {
     "type": "Feature",
@@ -240,6 +254,7 @@ let futbol = {
       "Stadium": "Banc of California Stadium",
       "Lat": "34.0127752",
       "Long": "-118.2862732"
+      "logo": ""
     }
   }, {
     "type": "Feature",
@@ -254,6 +269,7 @@ let futbol = {
       "Stadium": "Allianz Field",
       "Lat": "44.9529264",
       "Long": "-93.1672852"
+      "logo": ""
     }
   }, {
     "type": "Feature",
@@ -268,6 +284,7 @@ let futbol = {
       "Stadium": "Providence Park",
       "Lat": "45.5215426",
       "Long": "-122.6940331"
+      "logo": ""
     }
   }, {
     "type": "Feature",
@@ -282,6 +299,7 @@ let futbol = {
       "Stadium": "Rio Tinto Stadium",
       "Lat": "40.5829342",
       "Long": "-111.8955498"
+      "logo": ""
     }
   }, {
     "type": "Feature",
@@ -296,6 +314,7 @@ let futbol = {
       "Stadium": "Avaya Stadium",
       "Lat": "37.3511691",
       "Long": "-121.9268511"
+      "logo": ""
     }
   }, {
     "type": "Feature",
@@ -310,6 +329,7 @@ let futbol = {
       "Stadium": "Century Link Field",
       "Lat": "47.5951554",
       "Long": "-122.3338281"
+      "logo": ""
     }
   }, {
     "type": "Feature",
@@ -324,6 +344,7 @@ let futbol = {
       "Stadium": "Children's Mercy Park",
       "Lat": "39.121597",
       "Long": "-94.8253654"
+      "logo": ""
     }
   }, {
     "type": "Feature",
@@ -338,6 +359,7 @@ let futbol = {
       "Stadium": "BC Place",
       "Lat": "49.2767535",
       "Long": "-123.1141877"
+      "logo": ""
    }
   }
       ]
