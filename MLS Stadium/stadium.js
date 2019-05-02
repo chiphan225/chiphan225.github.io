@@ -164,7 +164,7 @@ let futbol = {
       "Stadium": "Talen Energy Stadium",
       "Lat": "39.8327971",
       "Long": "-75.3806454"
-      "logo": ""
+      "logo": "PHI_Logo_PRI_FC_RGB_2160x2160.png"
     }
   }, {
     "type": "Feature",
