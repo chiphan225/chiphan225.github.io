@@ -28,7 +28,7 @@ let futbol = {
       "Team": "Chicago Fire",
       "Stadium": "SeatGeek Stadium",
       "Lat": "41.764798",
-      "Long": "-87.8083637"
+      "Long": "-87.8083637",
       "logo": "CHI_Logo_PRI_FC_RGB_2160x2160.png"
     }
   }, {
@@ -43,7 +43,7 @@ let futbol = {
       "Team": "FC Cincinnati",
       "Stadium": "Nippert Stadium",
       "Lat": "39.1312231",
-      "Long": "-84.5184217"
+      "Long": "-84.5184217",
       "logo": "CIN_Logo_PRI_FC_RGB_2160x2160.png"
     }
   }, {
@@ -58,7 +58,7 @@ let futbol = {
       "Team": "Columbus Crew SC",
       "Stadium": "Mapfre Stadium",
       "Lat": "40.0095329",
-      "Long": "-82.9933509"
+      "Long": "-82.9933509",
       "logo": "CLB_Logo_PRI_FC_RGB_2160x2160.png"
     }
   }, {
@@ -73,7 +73,7 @@ let futbol = {
       "Team": "D.C. United",
       "Stadium": "Audi Field",
       "Lat": "38.8689556",
-      "Long": "-77.0151054"
+      "Long": "-77.0151054",
       "logo": "DC_Logo_PRI_FC_RGB_2160x2160.png"
     }
   }, {
@@ -88,7 +88,7 @@ let futbol = {
       "Team": "Montreal Impact",
       "Stadium": "Saputo Stadium",
       "Lat": "45.5622984",
-      "Long": "-73.5552211"
+      "Long": "-73.5552211",
       "logo": "MTL_Logo_PRI_FC_RGB_2160x2160.png"
     }
   }, {
@@ -103,7 +103,7 @@ let futbol = {
       "Team": "New England Revolution",
       "Stadium": "Gillete Stadium",
       "Lat": "42.0909498",
-      "Long": "-84.509007"
+      "Long": "-84.509007",
       "logo": "NE_Logo_PRI_FC_RGB_2160x2160.png"
     }
   }, {
@@ -118,7 +118,7 @@ let futbol = {
       "Team": "New York City FC",
       "Stadium": "Yankee Stadium",
       "Lat": "40.8296466",
-      "Long": "-73.9283632"
+      "Long": "-73.9283632",
       "logo": "NYC_Logo_PRI_FC_RGB_2160x2160.png"
     }
   }, {
@@ -133,7 +133,7 @@ let futbol = {
       "Team": "New York Red Bulls",
       "Stadium": "Red Bull Arena",
       "Lat": "40.7368476",
-      "Long": "-74.1524242"
+      "Long": "-74.1524242",
       "logo": "RBNY_Logo_PRI_FC_RGB_2160x2160.png"
     }
   }, {
@@ -148,7 +148,7 @@ let futbol = {
       "Team": "Orlando City SC",
       "Stadium": "Orlando City Stadium",
       "Lat": "28.5411153",
-      "Long": "-81.3914669"
+      "Long": "-81.3914669",
       "logo": "ORL_Logo_PRI_FC_RGB_2160x2160.png"
     }
   }, {
@@ -163,7 +163,7 @@ let futbol = {
       "Team": "Philadelphia Union",
       "Stadium": "Talen Energy Stadium",
       "Lat": "39.8327971",
-      "Long": "-75.3806454"
+      "Long": "-75.3806454",
       "logo": "PHI_Logo_PRI_FC_RGB_2160x2160.png"
     }
   }, {
@@ -178,7 +178,7 @@ let futbol = {
       "Team": "Toronto FC",
       "Stadium": "BMO Field",
       "Lat": "43.6332286",
-      "Long": "-79.4207541"
+      "Long": "-79.4207541",
       "logo": "TOR_Logo_PRI_FC_RGB_2160x2160.png"
     }
   }, {
@@ -193,7 +193,7 @@ let futbol = {
       "Team": "Colorado Rapids",
       "Stadium": "Dick's Sporting Good Park",
       "Lat": "39.8056243",
-      "Long": "-104.8940055"
+      "Long": "-104.8940055",
       "logo": "COL_Logo_PRI_FC_RGB_2160x2160.png"
     }
   }, {
@@ -208,7 +208,7 @@ let futbol = {
       "Team": "FC Dallas",
       "Stadium": "Toyota Stadium",
       "Lat": "33.1543384",
-      "Long": "-96.8373606"
+      "Long": "-96.8373606",
       "logo": "DAL_Logo_PRI_FC_RGB_2160x2160.png"
     }
   }, {
@@ -223,7 +223,7 @@ let futbol = {
       "Team": "Houston Dynamo",
       "Stadium": "BBVA Compass Stadium",
       "Lat": "29.7522063",
-      "Long": "-95.3544063"
+      "Long": "-95.3544063",
       "logo": "HOU_Logo_PRI_FC_RGB_2160x2160.png"
     }
   }, {
@@ -238,7 +238,7 @@ let futbol = {
       "Team": "LA Galaxy",
       "Stadium": "Dignity Health Sports Park",
       "Lat": "33.8643821",
-      "Long": "-118.2633313"
+      "Long": "-118.2633313",
       "logo": "LA_Logo_PRI_FC_RGB_2160x2160.png"
     }
   }, {
@@ -253,7 +253,7 @@ let futbol = {
       "Team": "Los Angeles FC",
       "Stadium": "Banc of California Stadium",
       "Lat": "34.0127752",
-      "Long": "-118.2862732"
+      "Long": "-118.2862732",
       "logo": "LAFC_Logo_PRI_FC_RGB_2160x2160.png"
     }
   }, {
@@ -268,7 +268,7 @@ let futbol = {
       "Team": "Minnesota United FC",
       "Stadium": "Allianz Field",
       "Lat": "44.9529264",
-      "Long": "-93.1672852"
+      "Long": "-93.1672852",
       "logo": "MIN_Logo_PRI_FC_RGB_2160x2160.png"
     }
   }, {
@@ -283,7 +283,7 @@ let futbol = {
       "Team": "Portland Timbers",
       "Stadium": "Providence Park",
       "Lat": "45.5215426",
-      "Long": "-122.6940331"
+      "Long": "-122.6940331",
       "logo": "POR_Logo_PRI_FC_RGB_2160x2160.png"
     }
   }, {
@@ -298,7 +298,7 @@ let futbol = {
       "Team": "Real Salt Lake",
       "Stadium": "Rio Tinto Stadium",
       "Lat": "40.5829342",
-      "Long": "-111.8955498"
+      "Long": "-111.8955498",
       "logo": "RSL_Logo_PRI_FC_RGB_2160x2160.png"
     }
   }, {
@@ -313,7 +313,7 @@ let futbol = {
       "Team": "San Jose Earthquakes",
       "Stadium": "Avaya Stadium",
       "Lat": "37.3511691",
-      "Long": "-121.9268511"
+      "Long": "-121.9268511",
       "logo": "SJ_Logo_PRI_FC_RGB_2160x2160.png"
     }
   }, {
@@ -328,7 +328,7 @@ let futbol = {
       "Team": "Seattle Sounders FC",
       "Stadium": "Century Link Field",
       "Lat": "47.5951554",
-      "Long": "-122.3338281"
+      "Long": "-122.3338281",
       "logo": "SEA_Logo_PRI_FC_RGB_2160x2160.png"
     }
   }, {
@@ -343,7 +343,7 @@ let futbol = {
       "Team": "Sporting Kansas City",
       "Stadium": "Children's Mercy Park",
       "Lat": "39.121597",
-      "Long": "-94.8253654"
+      "Long": "-94.8253654",
       "logo": "SKC_Logo_PRI_FC_RGB_2160x2160.png"
     }
   }, {
@@ -358,7 +358,7 @@ let futbol = {
       "Team": "Vancouver Whitecaps FC",
       "Stadium": "BC Place",
       "Lat": "49.2767535",
-      "Long": "-123.1141877"
+      "Long": "-123.1141877",
       "logo": "VAN_Logo_PRI_FC_RGB_2160x2160.png"
    }
   }
