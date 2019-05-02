@@ -7,3 +7,7 @@ body {
 }
 .ecs {color: red}
 .wcs {color: blue}
+.popup-images {
+  width: 150px;
+  height: 150px;
+}
