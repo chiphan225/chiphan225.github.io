@@ -36,5 +36,5 @@ function geopopup (feature, layer) {
  let id = feature.properties.Team
  let name = feature.properties.Stadium
  let logo = feature.properties.logo
- layer.bindPopup(id + "<br>" + name "<br>" + '<img src="' + logo + '" alt="'+ name +'">')
+ layer.bindPopup(id + "<br>" + name + "<br>" + '<img src="' + logo + '" alt="'+ name +'">')
 }
